@@ -1,0 +1,60 @@
+/**
+ * @name Amime by WolfZ
+ * @author wolfzbeatz
+ * @authorId 1100109196541841408
+ * @version 1.0.0
+ * @description WolfZ (Zétény) által készített Discord téma.
+ * @source https://github.com/WolfzBeatz/Amime-Theme-by-WolfZ
+ * @invite wTNgpZq2xk
+*/
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css); /* del */
+
+:root {
+  --app-bg: url('https://w.wallha.com/ws/14/bdorDGCf.png');
+  --app-blur: 1px;
+  --app-margin: 24px;
+  --app-radius: 8px;
+  --accent-hue: 156;
+  --accent-saturation: 77%;
+  --accent-lightness: 47%;
+  --accent-opacity: 1;
+  --sidebar-color: rgba(0,0,0,0.4);
+  --main-content-color: rgba(0,0,0,0.2);
+  --undefined: 0;
+  --interactive-normal: #aaa;
+  --interactive-hover: #ddd;
+  --interactive-active: #fff;
+  --interactive-muted: #777;
+  --undefined: 0;
+  --background-modifier-hover: rgba(255,255,255,0.075);
+  --background-modifier-selected: rgba(255,255,255,0.125);
+  --message-color: rgba(0,0,0,0.4);
+  --message-radius: 8px;
+  --message-padding-top: 8px;
+  --message-padding-side: 8px;
+  --undefined: 0;
+  --reply-hue: 226;
+  --reply-saturation: 77%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,255,255;
+  --textarea-alpha: 0.1;
+  --textarea-alpha-focus: 0.15;
+  --textarea-radius: 22px;
+  --card-color: rgba(0,0,0,0.4);
+  --card-color-hover: rgba(0,0,0,0.5);
+  --card-color-select: rgba(0,0,0,0.7);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 16px;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+/*Del*/
+  --settingswidth: 	960;
+  --settingsheight: 80;
+  --settingsbackground: transparent;
+}
+
+/* Any custom CSS below here */
