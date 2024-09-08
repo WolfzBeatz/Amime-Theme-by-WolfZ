@@ -9,7 +9,7 @@
 */
 @import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css); /* del */
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
 
 :root {
   --app-bg: url('https://w.wallha.com/ws/14/bdorDGCf.png');
@@ -51,7 +51,6 @@
   --button-radius: 16px;
   --HSL-server-icon-size: 45px;
   --HSL-server-spacing: 10px;
-/*Del*/
   --settingswidth: 	960;
   --settingsheight: 80;
   --settingsbackground: transparent;
