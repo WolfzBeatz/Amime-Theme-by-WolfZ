@@ -5,11 +5,14 @@
  * @version 1.0.0
  * @description WolfZ (Zétény) által készített Discord téma.
  * @source https://github.com/WolfzBeatz/Amime-Theme-by-WolfZ
+ * @updateUrl https://github.com/WolfzBeatz/Amime-Theme-by-WolfZ/blob/main/wolfz.theme.css
  * @invite wTNgpZq2xk
 */
 @import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/ChannelDms.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css');
 
 :root {
   --app-bg: url('https://w.wallha.com/ws/14/bdorDGCf.png');
@@ -51,9 +54,10 @@
   --button-radius: 16px;
   --HSL-server-icon-size: 45px;
   --HSL-server-spacing: 10px;
+/*Settings*/
   --settingswidth: 	960;
   --settingsheight: 80;
   --settingsbackground: transparent;
+
 }
 
-/* Any custom CSS below here */
